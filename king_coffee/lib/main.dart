@@ -10,7 +10,7 @@ class KINGCOFFEE extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demos',
+      title: 'Flutter Demo',
       theme: ThemeData(
         // This is the theme of your application.
         //
