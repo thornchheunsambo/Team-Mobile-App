@@ -16,7 +16,7 @@ class _OnboardingPageState extends State<OnboardingPage> {
     OnboardingData(
       image: 'assets/images/onboarding1.png',
       title: 'Brew Your Perfect Cup',
-      description: 'Discover rich, aromatic coffees made just the way you love from bold espressos to creamy lattes.',
+      description: 'Discover rich, aromatic coffees made just the way you love from bold espressos to creamy lattes or matcha lattes.',
     ),
     OnboardingData(
       image: 'assets/images/onboarding2.png',
